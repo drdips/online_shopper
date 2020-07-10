@@ -48,19 +48,19 @@ Our final model we chose is the Random Forest with Grid Search. It had the highe
 
 ## Findings & Recommendations 
 
-![Image](bounce_browser.png)
+![Image](/visualizations/bounce_browser.png)
 
 - Some browsers had a higher bounce rate, so we reccomend businesses focus on the UX/UI design of their site to ensure that its compatible with all browsers
 
-![Image](seasonality.png)
+![Image](/visualizations/seasonality.png)
 
 - We found that fall months, in particular, November had the highest revenue. We assume that this is due to a lot of Turkish holidays falling within this time period. We recommend that businesses continue to offer seasonal products and deals throughout the entire year. 
 
-![Image](specialday.png)
+![Image](/visualizations/specialday.png)
 
 - In looking at whether the date is close to a special day, we found that that less visitors made less purchases. This is not what we expected, so we recommend that sites focus on making sure they have competitive deals and prices with other online businesses. 
 
-![Image](visitortype.png)
+![Image](/visualizations/visitortype.png)
 
 - We found a significant difference between the new, returning and unrecognized visitor types with new visitors purchasing the most frequently. This was despite the fact that returning visitors spent more time on the site. There is an opportunity for more customer and brand loyatly. To do this businesses should personalize their shoppers experience with recommended products as well as a rewards system that offers benefits to returning visitors. 
 
