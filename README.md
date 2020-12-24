@@ -4,6 +4,7 @@ Flatiron Module 3 Project
 Contributors: Dipta Roy and Lauren Cunningham 
 
 Dataset: Online Shoppers Intention dataset from Kaggle
+
 https://www.kaggle.com/roshansharma/online-shoppers-intention
 
 
