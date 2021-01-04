@@ -1,4 +1,4 @@
-# Online Shopper Intention
+# Online Shopper Intention 
 
 Flatiron Module 3 Project
 Contributors: Dipta Roy and Lauren Cunningham 
