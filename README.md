@@ -66,3 +66,4 @@ Our final model we chose is the Random Forest with Grid Search. It had the highe
 - We found a significant difference between the new, returning and unrecognized visitor types with new visitors purchasing the most frequently. This was despite the fact that returning visitors spent more time on the site. There is an opportunity for more customer and brand loyatly. To do this businesses should personalize their shoppers experience with recommended products as well as a rewards system that offers benefits to returning visitors. 
 
 
+ 
