@@ -1,6 +1,6 @@
 # Online Shopper Intention  
 
-Flatiron Module 3 Project
+Flatiron Module 3 Project 
 Contributors: Dipta Roy and Lauren Cunningham 
 
 Dataset: Online Shoppers Intention dataset from Kaggle
